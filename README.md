@@ -28,7 +28,7 @@ To learn more about this approach, you can check out our paper on Physical Revie
 For further questions or inquiries, please feel free to send an email to lavoisier.wahkenounouh@mpl.mpg.de. We are looking forward to future contributions.
 
 ## License
-The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain/edit/main/LICENSE.md) of this work is derived from the BSD-3-Clause license. Ethical clauses are added to promote good uses of this code.
+The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain/edit/main/LICENSE) of this work is derived from the BSD-3-Clause license. Ethical clauses are added to promote good uses of this code.
 
 ## Citing
 ```bibtex
