@@ -20,7 +20,7 @@ This repository contains the following folders:
 
 * **MLP**:an implementation of the MLP Wave Function for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
 
-* **TL**: an implementation of the RNN, RBM, MLP  Wave Function with transfert learning for the finding of the average magnetization in 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
+* **TL**: an implementation of the RNN, RBM, MLP  Wave Function with transfer learning for the finding of the average magnetization in 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
 
 
 To learn more about this approach, you can check out our paper on Physical Review Research: https://arxiv.org/abs/2506.11222
