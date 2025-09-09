@@ -4,7 +4,7 @@ This repository provide the codes that support the results in our paper: https:/
 # Neural Quantum States
 
 Neural-network-based variational wavefunctions or neural quantum states (NQSs), such as restricted Boltzmann machines (RBMs), multilayer perceptrons (MLPs), and recurrent neural networks (RNNs) have demonstrated remarkable success in
-approximating ground states (quantum many-body wave function ansätzes) of complex quantum systems with the help of Variational Monte Carlo (VMC). <a href="https://arxiv.org/abs/2506.11222" target="_blank">In our paper</a>, we show that these NQSs can provide accurate estimations of ground-state properties, correlation functions as well as quantum phase transition in a many-body non-Hermitian (NH) system.
+approximating ground states (quantum many-body wave function ansätzes) of complex quantum systems with the help of Variational Monte Carlo (VMC). <a href="https://arxiv.org/abs/2506.11222" target="_blank">In our paper</a>, we show that these NQSs can provide accurate estimations of ground-state properties, correlation functions as well as quantum phase transitions in many-body non-Hermitian (NH) systems.
 
 ## Content
 This repository contains the following folders:
