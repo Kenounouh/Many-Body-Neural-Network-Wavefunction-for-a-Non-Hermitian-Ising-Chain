@@ -38,3 +38,7 @@ The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction
 ## Dependencies
 Our implementation works on Python (3.11.5) with TensorFlow (2.14.0), Pytorch (2.5.1), NumPy (1.25.2), and Numba (0.58.0) modules on MacOs.
 
+## Run
+For simplicity all the NQSs where stored as jupyter notebooks.
+
+
