@@ -22,9 +22,20 @@ This repository contains the following folders:
 To learn more about this approach, you can check out our paper on Physical Review Research: https://arxiv.org/abs/2506.11222
 
 For further questions or inquiries, please feel free to send an email to lavoisier.wahkenounouh@mpl.mpg.de. We are looking forward to future contributions.
+## Dependencies
+Our implementation works with the packages in the `requirements.txt` file. They can be installed by running:
+```
+pip install -r requirements.txt
+```
+## Clone repository
 
-## License
-The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain/edit/main/LICENSE) of this work is derived from the BSD-3-Clause license. Ethical clauses are added to promote good uses of this code.
+```
+git clone https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain.git
+cd Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain
+```
+
+## Run
+For simplicity all the NQSs where stored as jupyter notebooks.
 
 ## Citing
 ```bibtex
@@ -35,13 +46,8 @@ The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction
   year={2025}
 }
 ```
-## Dependencies
-Our implementation works with the packages in the `requirements.txt` file. They can be installed by running:
-```
-pip install -r requirements.txt
-```
+## License
+The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction-for-a-Non-Hermitian-Ising-Chain/edit/main/LICENSE) of this work is derived from the BSD-3-Clause license. Ethical clauses are added to promote good uses of this code.
 
-## Run
-For simplicity all the NQSs where stored as jupyter notebooks.
 
 
