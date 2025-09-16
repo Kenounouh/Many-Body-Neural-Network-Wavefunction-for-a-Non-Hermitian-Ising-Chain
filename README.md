@@ -36,7 +36,10 @@ The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction
 }
 ```
 ## Dependencies
-Our implementation works with the packages in the `requirements.txt` file
+Our implementation works with the packages in the `requirements.txt` file. they can be install by running:
+```
+pip install -r requirements.txt
+```
 
 ## Run
 For simplicity all the NQSs where stored as jupyter notebooks.
