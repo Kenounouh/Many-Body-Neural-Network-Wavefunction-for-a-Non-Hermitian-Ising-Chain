@@ -1,7 +1,7 @@
 ################################################################
 #
-# Exact diagonalization using sparse matrix method
-#
+# Functions for running Exact diagonalization 
+# Author: Lavoisier Wah & Remmy Zen
 ################################################################
 
 import scipy.sparse as sp
