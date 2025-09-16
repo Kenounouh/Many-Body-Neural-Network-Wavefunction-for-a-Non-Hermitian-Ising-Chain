@@ -1,9 +1,9 @@
-
 ################################################################
 #
 # Exact diagonalization using sparse matrix method
-#
+# Author: Lavoisier Wah & Remmy Zen
 ################################################################
+
 import numpy as np
 import scipy.sparse.linalg as spa  #Uses sparse matrix technique
 #from matrices import *
