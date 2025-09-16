@@ -8,7 +8,7 @@ approximating ground states (quantum many-body wave function ansätzes) of compl
 
 ## Content
 This repository contains the following folders:
-* **ED**: an implementation of exact diagonalization for the the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (TFIM)
+* **ED**: an implementation of exact diagonalization (ED) for the the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (TFIM). To run the code, run the file `ED_NH_core.py`.
 
 * **RNN**: an implementation of the RNN Wave Function for the finding of the ground state of the 1D non-Hermitian PT-symmetric Transverse-field Ising Model (NH TFIM).
 
@@ -36,7 +36,7 @@ The [license](https://github.com/Kenounouh/Many-Body-Neural-Network-Wavefunction
 }
 ```
 ## Dependencies
-Our implementation works with the packages in the `requirements.txt` file. they can be install by running:
+Our implementation works with the packages in the `requirements.txt` file. They can be installed by running:
 ```
 pip install -r requirements.txt
 ```
