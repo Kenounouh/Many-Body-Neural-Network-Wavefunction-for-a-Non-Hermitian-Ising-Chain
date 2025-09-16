@@ -1,4 +1,4 @@
-Author: Lavoisier Wah & Remmy Zen
+#Author: Lavoisier Wah & Remmy Zen
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
