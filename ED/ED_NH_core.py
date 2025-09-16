@@ -107,7 +107,7 @@ print('eta:', eta, 'epsi:', epsi)
 print('Job done !!!')
 
 
-#ignore erything bellow
+#Ignore everything bellow
 
 import numpy as np
 import scipy.linalg as la
